@@ -3,7 +3,7 @@ body {
   padding-top: 54px;
   color: #000;
   background-color: #fff;
-  text-decoration-color: #101a6e;
+  text-decoration-color: #07357d;
 }
 
 @media (min-width: 992px) {
@@ -100,7 +100,7 @@ strong{
 }
 
 .social-icons a:hover {
-  background-color: #101a6e;
+  background-color: #07357d;
 }
 
 .dev-icons {
@@ -108,7 +108,7 @@ strong{
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #101a6e;
+  color: #07357d;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -355,7 +355,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #101a6e !important;
+  background-color: #07357d !important;
 }
 
 .xx{
@@ -363,7 +363,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #101a6e !important;
+  color: #07357d !important;
 }
 
 .hvr-hang{
@@ -375,7 +375,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #101a6e;
+  color: #07357d;
 }
 
 a:hover, a:focus, a:active {
@@ -434,8 +434,8 @@ a:hover, a:focus, a:active {
 .feedback-input:focus{
   background: #fff;
   box-shadow: 0;
-  border: 3px solid #101a6e;
-  color: #101a6e;
+  border: 3px solid #07357d;
+  color: #07357d;
   outline: none;
   padding: 13px 13px 13px 54px;
 }
@@ -498,7 +498,7 @@ input:focus, textarea:focus {
   width: 100%;
   border: #fbfbfb solid 4px;
   cursor:pointer;
-  background-color: #101a6e;
+  background-color: #07357d;
   color:white;
   font-size:24px;
   padding-top:22px;
@@ -510,11 +510,11 @@ input:focus, textarea:focus {
 
 #button-blue:hover{
   background-color: rgba(0,0,0,0);
-  color: #101a6e;
+  color: #07357d;
 }
   
 .submit:hover {
-  color: #101a6e;
+  color: #07357d;
 }
   
 .ease {
