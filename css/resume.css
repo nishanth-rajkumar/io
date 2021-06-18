@@ -3,7 +3,7 @@ body {
   padding-top: 54px;
   color: #000;
   background-color: #fff;
-  text-decoration-color: #ab2016;
+  text-decoration-color: #101a6e;
 }
 
 @media (min-width: 992px) {
@@ -100,7 +100,7 @@ strong{
 }
 
 .social-icons a:hover {
-  background-color: #ab2016;
+  background-color: #101a6e;
 }
 
 .dev-icons {
@@ -108,7 +108,7 @@ strong{
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #ab2016;
+  color: #101a6e;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -355,7 +355,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #ab2016 !important;
+  background-color: #101a6e !important;
 }
 
 .xx{
@@ -363,7 +363,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #ab2016 !important;
+  color: #101a6e !important;
 }
 
 .hvr-hang{
@@ -375,7 +375,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #ab2016;
+  color: #101a6e;
 }
 
 a:hover, a:focus, a:active {
@@ -434,8 +434,8 @@ a:hover, a:focus, a:active {
 .feedback-input:focus{
   background: #fff;
   box-shadow: 0;
-  border: 3px solid #ab2016;
-  color: #ab2016;
+  border: 3px solid #101a6e;
+  color: #101a6e;
   outline: none;
   padding: 13px 13px 13px 54px;
 }
@@ -498,7 +498,7 @@ input:focus, textarea:focus {
   width: 100%;
   border: #fbfbfb solid 4px;
   cursor:pointer;
-  background-color: #ab2016;
+  background-color: #101a6e;
   color:white;
   font-size:24px;
   padding-top:22px;
@@ -510,11 +510,11 @@ input:focus, textarea:focus {
 
 #button-blue:hover{
   background-color: rgba(0,0,0,0);
-  color: #ab2016;
+  color: #101a6e;
 }
   
 .submit:hover {
-  color: #ab2016;
+  color: #101a6e;
 }
   
 .ease {
@@ -592,14 +592,14 @@ input:focus, textarea:focus {
 }
 
 #arrow-left {
-  border-width: 30px 40px 30px 0;
+  border-width: 20px 30px 20px 0;
   border-color: transparent #000 transparent transparent;
   left: 0;
   margin-left: 30px;
 }
 
 #arrow-right {
-  border-width: 30px 0 30px 40px;
+  border-width: 20px 0 20px 30px;
   border-color: transparent transparent transparent #000;
   right: 0;
   margin-right: 30px;
@@ -620,14 +620,14 @@ input:focus, textarea:focus {
 }
 
 #arrow-lefta {
-  border-width: 30px 40px 30px 0;
+  border-width: 20px 30px 20px 0;
   border-color: transparent #000 transparent transparent;
   left: 0;
   margin-left: 30px;
 }
 
 #arrow-righta {
-  border-width: 30px 0 30px 40px;
+  border-width: 20px 0 20px 30px;
   border-color: transparent transparent transparent #000;
   right: 0;
   margin-right: 30px;
@@ -640,14 +640,14 @@ input:focus, textarea:focus {
 }
 
 #arrow-leftb {
-  border-width: 30px 40px 30px 0;
+  border-width: 20px 30px 20px 0;
   border-color: transparent #000 transparent transparent;
   left: 0;
   margin-left: 30px;
 }
 
 #arrow-rightb {
-  border-width: 30px 0 30px 40px;
+  border-width: 20px 0 20px 30px;
   border-color: transparent transparent transparent #000;
   right: 0;
   margin-right: 30px;
@@ -660,14 +660,14 @@ input:focus, textarea:focus {
 }
 
 #arrow-leftc {
-  border-width: 30px 40px 30px 0;
+  border-width: 20px 30px 20px 0;
   border-color: transparent #000 transparent transparent;
   left: 0;
   margin-left: 30px;
 }
 
 #arrow-rightc {
-  border-width: 30px 0 30px 40px;
+  border-width: 20px 0 20px 30px;
   border-color: transparent transparent transparent #000;
   right: 0;
   margin-right: 30px;
